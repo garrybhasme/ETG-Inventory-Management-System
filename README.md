@@ -20,8 +20,8 @@ I used the Jupyter notebook and used Python 3 version
 I took reference from the sites which are https://www.geeksforgeeks.org/ and https://www.python.org/
 
 # About
-Name :- Gaurav Bhasme\n
-Address :- Kaarad, Satara, MAharashtra.\n
-Mobile No. :- 7447308523\n
-Email 📧 :- gauravbhasme1461gb@gmail.com\n
+Name :- Gaurav Bhasme
+Address :- Kaarad, Satara, MAharashtra.
+Mobile No. :- 7447308523
+Email 📧 :- gauravbhasme1461gb@gmail.com
 College :- Sinhgad College Of Engineering, Pune
